@@ -3,9 +3,9 @@
 
 ## Usei alguns recursos do javascrip
 <ul>
-<li>Funções do tipo arrow.</li>
-<li>Template string.</li>
-<li>Manipulação de elementos HTML no DOM.</li>
+    <li>Funções do tipo arrow.</li>
+    <li>Template string.</li>
+    <li>Manipulação de elementos HTML no DOM.</li>
 </ul>
 
 # Autor
