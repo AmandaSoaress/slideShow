@@ -1,5 +1,5 @@
 ## Slide Show - js
-<p>Neste projeto criei um slideshow com ações para retroceder e avanças.</p>.
+<p>Neste projeto criei um slideshow com ações para retroceder e avanças.</p>
 
 ## Usei alguns recursos do javascrip
 <ul>
